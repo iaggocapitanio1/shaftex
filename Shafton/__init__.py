@@ -1,7 +1,7 @@
 
 """
 @Description:
-This package'll help to project a mechanical shaft.
+This package'll help to design a mechanical shaft.
 
 """
 __author__ = "Iaggo Capitanio"
